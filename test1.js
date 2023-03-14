@@ -1,3 +1,3 @@
 const data = "test";
 const value = 5;
-let testData = "";
+let testData = "123";
